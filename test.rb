@@ -1,3 +1,6 @@
+def  square(x)
+  x*x
+end
 
 def add(x,y)
   x+y

@@ -1,3 +1,7 @@
+def cube(x)
+  x*x*x
+end
+
 def  square(x)
   x*x
 end

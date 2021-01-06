@@ -1,3 +1,7 @@
+def id(x)
+  x
+end
+
 def cube(x)
   x*x*x
 end
